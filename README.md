@@ -28,7 +28,7 @@ npm start
 
 ## How to check results
 
-- You can check if the https requests work on your browser, but I recommand to use Postman to see the results in a better way.
+- You can check if the http requests work on your browser, but I recommand to use Postman to see the results in a better way.
 
 ## License
 
